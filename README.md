@@ -1,6 +1,6 @@
 # 🍽️ Digital Diner – Modern Restaurant App
 
-![App Screenshot](https://your-image-link.com/screenshot.png](https://ibb.co/zTmm4K4v))
+![App Screenshot](https://your-image-link.com/screenshot.png](https://ibb.co/zTmm4K4v](https://i.ibb.co/8Lmm7F7Z/Screenshot-210.png)))
 
 
 A sleek, fully responsive restaurant web application with smooth animations and a seamless user experience. It features dedicated sections for Home, Menu, About, Reservations, Contact, and Reviews—designed to provide a complete digital dining experience.
